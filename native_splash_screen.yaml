@@ -1,0 +1,14 @@
+flutter_native_splash:
+  android: true
+  ios: true
+  web: false
+  # For general theme covers both android and ios (except android 12+)
+  color: "#f6f6f6"
+  image: "assets/images/andr_app_logo_v2.png"
+  branding: "assets/images/andr_app_branding_v2.png"
+
+  #for android 12 and up+
+  android_12:
+    color: "#f6f6f6"
+    image: "assets/images/andr_app_logo_v2.png"
+    branding: "assets/images/andr_app_branding_v2.png"
