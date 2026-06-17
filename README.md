@@ -37,7 +37,7 @@ This project connects software development, UI design, IoT hardware integration,
 
 ### Project Demo Video 
 
-<video src="assets/screenshot/demo-vid.mp4" width="800" controls> </video>
+[Watch the demo video](assets/screenshot/demo-vid.mp4)
 
 ### User Manual Preview
 
