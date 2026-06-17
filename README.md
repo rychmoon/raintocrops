@@ -37,7 +37,7 @@ This project connects software development, UI design, IoT hardware integration,
 
 ### Project Demo Video 
 
-<video src="assets/videos/raintocrops-demo.mp4" width="800" controls> </video>
+<video src="assets/screenshot/demo-vid.mp4" width="800" controls> </video>
 
 ### User Manual Preview
 
@@ -76,7 +76,7 @@ This project is built using Flutter. To run the mobile application, make sure Fl
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/raintocrops.git
+git clone https://github.com/rychmoon/raintocrops.git
 ```
 
 Go to the project folder:
