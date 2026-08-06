@@ -116,7 +116,3 @@ raintocrops/
 ## Documentation
 
 The project includes user manual materials, app branding assets, and system-related documentation. These files can be added in the repository to help viewers understand the purpose, features, and actual use of the project.
-
-## Status
-
-Final version prepared for project presentation, documentation, and portfolio use.
