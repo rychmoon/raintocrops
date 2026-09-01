@@ -51,12 +51,19 @@ The purpose of RaintoCrops is to provide farmers with a practical tool for monit
 
 ## My Role
 
-* Designed and improved mobile app interfaces using Flutter
-* Assisted in integrating ESP32 hardware with the mobile application
-* Worked on user-friendly navigation and visual layout
-* Supported testing and troubleshooting of system features
-* Helped connect real-world farm needs with a practical technology solution
-1
+As one of the main developers of RaintoCrops, I was primarily responsible for the design and development of the mobile application. My contributions included:
+
+* Designed and developed the mobile application interface using Flutter and Dart
+* Implemented and refined the app's UI/UX, including the dashboard, telemetry, weather forecast, insights, and irrigation scheduling screens
+* Developed user-friendly navigation and layouts to make the application simple and accessible for farmers and growers
+* Integrated the mobile application with ESP32-based hardware for receiving and displaying sensor data
+* Worked with MQTT communication to support real-time monitoring and data exchange between the hardware and mobile application
+* Assisted in connecting Firebase services and other application components where needed
+* Conducted testing, debugging, and troubleshooting to identify and resolve application issues
+* Improved the overall usability, responsiveness, and visual consistency of the application
+* Contributed to translating real-world agricultural and irrigation needs into practical software features
+* Helped prepare project documentation, user manual materials, and other supporting project assets
+
 ## Getting Started
 
 This project is built using Flutter. To run the mobile application, make sure Flutter is installed on your device.
